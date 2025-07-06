@@ -13,12 +13,12 @@ A curated collection of cutting-edge machine learning and deep learning models a
 - [License](#license)
 
 ## Computer Vision
+[![Computer Vision Repository](https://img.shields.io/badge/GitHub-Computer_Vision-181717?style=for-the-badge&logo=github)](https://github.com/riveratlas/Computer-Vision)
 
 ### Vision Transformers (ViT)
 - **Description**: Introduces pure transformer architecture for image recognition tasks, demonstrating that transformers can achieve excellent results on computer vision tasks without convolutional networks.
 - **Key Paper**: [An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](https://arxiv.org/abs/2010.11929) (2020)
 - **Repository**: [google-research/vision_transformer](https://github.com/google-research/vision_transformer)
-- **Additional Resources**: [Computer Vision Repository](https://github.com/riveratlas/Computer-Vision)
 - **Key Innovations**:
   - Splits images into fixed-size patches
   - Uses standard Transformer encoder
@@ -31,12 +31,12 @@ A curated collection of cutting-edge machine learning and deep learning models a
 - **Performance**: 84.4% top-1 accuracy on ImageNet
 
 ## Natural Language Processing
+[![NLP Repository](https://img.shields.io/badge/GitHub-Natural_Language_Processing-181717?style=for-the-badge&logo=github)](https://github.com/riveratlas/Natural-Language-Processing)
 
 ### BERT (Bidirectional Encoder Representations from Transformers)
 - **Description**: Introduces bidirectional training of Transformers for language understanding.
 - **Key Paper**: [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805) (2018)
 - **Repository**: [google-research/bert](https://github.com/google-research/bert)
-- **Additional Resources**: [Natural Language Processing Repository](https://github.com/riveratlas/Natural-Language-Processing)
 - **Key Features**:
   - Masked Language Modeling (MLM)
   - Next Sentence Prediction (NSP)
@@ -52,47 +52,47 @@ A curated collection of cutting-edge machine learning and deep learning models a
   - Advanced reasoning capabilities
 
 ## Speech Recognition
+[![Speech Recognition Repository](https://img.shields.io/badge/GitHub-Speech_Recognition-181717?style=for-the-badge&logo=github)](https://github.com/riveratlas/Speech-Recognition)
 
 ### Whisper
 - **Description**: A general-purpose speech recognition model trained on 680,000 hours of multilingual and multitask supervised data.
 - **Key Paper**: [Robust Speech Recognition via Large-Scale Weak Supervision](https://cdn.openai.com/papers/whisper.pdf) (2022)
 - **Repository**: [openai/whisper](https://github.com/openai/whisper)
-- **Additional Resources**: [Speech Recognition Repository](https://github.com/riveratlas/Speech-Recognition)
 - **Features**:
   - Multilingual support
   - Speech translation
   - Speaker diarization
 
 ## Generative Models
+[![Generative Models Repository](https://img.shields.io/badge/GitHub-Generative_Models-181717?style=for-the-badge&logo=github)](https://github.com/riveratlas/Generative-Models)
 
 ### Stable Diffusion
 - **Description**: A latent text-to-image diffusion model capable of generating photo-realistic images from text prompts.
 - **Key Paper**: [High-Resolution Image Synthesis with Latent Diffusion Models](https://arxiv.org/abs/2112.10752) (2021)
 - **Repository**: [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion)
-- **Additional Resources**: [Generative Models Repository](https://github.com/riveratlas/Generative-Models)
 - **Applications**:
   - Text-to-image generation
   - Image-to-image translation
   - Inpainting and outpainting
 
 ## Reinforcement Learning
+[![Reinforcement Learning Repository](https://img.shields.io/badge/GitHub-Reinforcement_Learning-181717?style=for-the-badge&logo=github)](https://github.com/riveratlas/Reinforcement-Learning)
 
 ### AlphaFold 2
 - **Description**: A system that predicts a protein's 3D structure from its amino acid sequence with high accuracy.
 - **Key Paper**: [Highly accurate protein structure prediction with AlphaFold](https://www.nature.com/articles/s41586-021-03819-2) (2021)
 - **Repository**: [deepmind/alphafold](https://github.com/deepmind/alphafold)
-- **Additional Resources**: [Reinforcement Learning Repository](https://github.com/riveratlas/Reinforcement-Learning)
 - **Impact**:
   - Revolutionized structural biology
   - Predicted structures for nearly all known proteins
 
 ## Multimodal Models
+[![Multimodal Models Repository](https://img.shields.io/badge/GitHub-Multimodal_Models-181717?style=for-the-badge&logo=github)](https://github.com/riveratlas/Multimodal-Models)
 
 ### CLIP (Contrastive Language-Image Pre-training)
 - **Description**: Learns visual concepts from natural language supervision.
 - **Key Paper**: [Learning Transferable Visual Models From Natural Language Supervision](https://arxiv.org/abs/2103.00020) (2021)
 - **Repository**: [openai/CLIP](https://github.com/openai/CLIP)
-- **Additional Resources**: [Multimodal Models Repository](https://github.com/riveratlas/Multimodal-Models)
 - **Applications**:
   - Zero-shot image classification
   - Text-to-image retrieval
